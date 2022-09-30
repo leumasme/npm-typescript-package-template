@@ -1,7 +1,7 @@
 {
     "name": "npm-typescript-package-template",
     "version": "1.0.0",
-    "description": "A nodejs typescript package template",
+    "description": "A typescript npm package template",
     "keywords": [
         "add",
         "your",
