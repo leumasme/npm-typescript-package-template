@@ -9,7 +9,7 @@
         "here"
     ],
     "repository": "github:leumasme/npm-typescript-package-template",
-    "author": "Temm",
+    "author": "leumasme",
     "license": "ISC",
     "main": "build/index.js",
     "scripts": {
