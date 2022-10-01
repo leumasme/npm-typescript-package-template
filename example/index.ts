@@ -1,2 +1,2 @@
-import { helloWorld } from 'npm-typescript-package-template';
+import { helloWorld } from "npm-typescript-package-template";
 helloWorld();

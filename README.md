@@ -1,7 +1,7 @@
 # npm package typescript template
 Want to make a npm package with typescript?
 Here's a basic template to do it. Just click "Use this Template" to create a repo based on it!
-It only outputs ESM module code, not CommonJS.
+It outputs CommonJS and ESM bundles using the `tsup` bundler.
 ## Your TODOs:
 - [ ] Update package.json `name`, `description`, `keywords`, `author`, `repository` and `license`
 - [ ] Add your project code
@@ -14,5 +14,4 @@ It only outputs ESM module code, not CommonJS.
 - [ ] Exclude browser types by adding `lib: ["ES2015"]` to your `tsconfig.json->compilerOptions`
 
 ### If you are creating a package for the browser
-- Consider adding a bundler-transpiler (rollup, webpack) to reduce file size and support old browsers
 - ... ? (I do not know much about browser packages)
